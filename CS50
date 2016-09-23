@@ -1,2 +1,3 @@
 CS50 Notes
 How do you represent the (decimal) integer 50 in binary?  110010
+Binary is base 2 (instead of base 10 like we're used to).  2^0, 2^1, 2^2, etc.
