@@ -1,2 +1,2 @@
 # OSSCS
-Computer Science Notes
+Open Source Society - Computer Science Course Notes
